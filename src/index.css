@@ -1,0 +1,37 @@
+body {
+  font-size: 16px;
+}
+
+.Section__wrapper {
+  text-align: center;
+  width: 25%;
+}
+
+.Section__title {
+  font-size: 1.5rem;
+}
+
+.Section__text {
+  color: gray;
+  font-weight: 100;
+}
+
+.Section__image {
+  margin-bottom: 15px;
+}
+
+.wrapper {
+  display: flex;
+  justify-content: space-between;
+}
+
+.title {
+  text-align: center;
+  font-size: 2rem;
+  margin-bottom: 60px;
+}
+
+.main {
+  margin: 0 auto;
+  width: 80%;
+}
